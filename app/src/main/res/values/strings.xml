@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PayPhone</string>
+    <string name="title_activity_pagos">Pagos</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string-array name="lenguajes">
+        <item>Albania</item>
+        <item>Australia</item>
+        <item>Bélgica</item>
+        <item>China</item>
+        <item>Ecuador</item>
+       </string-array>
+    <string-array name="size_values">
+        <item>355</item>
+        <item>61</item>
+        <item>32</item>
+        <item>86</item>
+        <item>593</item>
+    </string-array>
+
+</resources>
